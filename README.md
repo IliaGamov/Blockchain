@@ -12,7 +12,7 @@ Requirements:
   
   npm install -g ganache-cli
 
-# Quic start
+# Quick start
 If you want to quickstart you have to colne:
 
 git clone https://github.com/PatrickAlphaC/erc20-brownie
