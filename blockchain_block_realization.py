@@ -52,4 +52,3 @@ test_block.append("Boris", 1423)
 test_block.append("Mary", 99)
 
 printout_blocks(test_block)
-#print(test_block.get_data())
