@@ -25,5 +25,5 @@ From scratch:
 3) brownie compile your .sol file
 4) Then, run ganache-cli after compiling .sol file
 5) Create your deploy python scripts 
-6) brownie run your script
+6) brownie run your deploy script
 
