@@ -23,7 +23,7 @@ From scratch:
 1) brownie init
 2) Create .sol file in contracts direction, you can copy this from etherium documentation or try to make it yourself
 3) brownie compile your .sol file
-4) The run ganache-cli after compiling .sol file
+4) Then, run ganache-cli after compiling .sol file
 5) Create your deploy python scripts 
 6) brownie run your script
 
